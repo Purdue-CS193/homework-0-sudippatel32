@@ -1,3 +1,9 @@
+# Sudip Patel's First CS193 Homework :)
+# What do I like about CS193? Well...
+ - Its chill
+ - The lecturers are nice
+ - I'm learning relevant things like gitHub
+ - I can turn in this homework over two weeks late because gitHub is a dumb company sometimes and still maybe recieve credit?
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
